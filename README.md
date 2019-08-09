@@ -14,6 +14,9 @@ This is the second change to the file
 ## Deployment
 This is a simple web deployment
 
+## How To Contribute
+Please fork this repository and then issue pull requests for review
+
 ###Copyright
 
 Immanuel
