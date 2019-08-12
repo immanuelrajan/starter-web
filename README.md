@@ -21,4 +21,4 @@ Please fork this repository and then issue pull requests for review
 
 ###Copyright
 
-Immanuel
+Immanuel. All rights reserved.
